@@ -33,4 +33,4 @@ Extend the work either by either: 
 **Resources**           
 The product of this exercise is a short essay. Start polishing your writing skills now rather than the summer before you go on the job market. Learn to tell stories with numbers by imitating the good work of others. And as is increasingly required in economics as well, please submit a documented code to go with your results. The papers in the journals of the *American Economic Association* (AEA) have their data available for replication. That could be a good place to look for papers to replicate! Bear in mind that this is only true from 2015 on.
 
-[Datahub for Field Experiments in Economics and Public Policy](https://dataverse.harvard.edu/dataverse/DFEEP) with data for 150 different recent RCTs.
+{{% resource_link "e27f387c-88cb-482d-9d2c-a8c1813bd78d" "Datahub for Field Experiments in Economics and Public Policy" %}} with data for 150 different recent RCTs.
