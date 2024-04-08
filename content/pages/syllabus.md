@@ -13,7 +13,7 @@ Recitations: 1 session / week, 1 hour/ session
 
 #### Prerequisites
 
-Prerequisites for this course are [*14.121 Microeconomic Theory I*](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/) and [*14.122 Microeconomic Theory II*.](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/)
+Prerequisites for this course are {{% resource_link "82ede41b-40c1-4b3b-bcc2-36f119fd5e27" "*14.121 Microeconomic Theory I*" %}} and {{% resource_link "39367994-7dd6-42c4-9950-895c2c88c1dc" "*14.122 Microeconomic Theory II*." %}}
 
 #### Course Description
 
@@ -44,7 +44,7 @@ Not required reading for this class, but you will find them useful and probably 
 
 *Articles*
 
-- Duflo, Esther, Rachel Glennerster, and Michael Kremer (2007). “[Using Randomization in Development Economics Research: A Toolkit." (PDF)](https://www.povertyactionlab.org/sites/default/files/research-paper/Using-Randomization-in-Development-Economics.pdf). *Handbook of Development Economics*, 4, Chapter 61. (Recommended)
-- Imbens, Guido and Jeffrey M. Wooldridge (2009). “[Recent Developments in the Econometrics of Program Evaluation” (PDF - 1MB)](https://dash.harvard.edu/bitstream/handle/1/3043416/imbens_recent.pdf?sequence). *Journal of Economic Literature*, 47(1): 5–86. 
+- Duflo, Esther, Rachel Glennerster, and Michael Kremer (2007). “{{% resource_link "7fab4902-a2ba-4d96-badb-aac40255b7b1" "Using Randomization in Development Economics Research: A Toolkit.\" (PDF)" %}}. *Handbook of Development Economics*, 4, Chapter 61. (Recommended)
+- Imbens, Guido and Jeffrey M. Wooldridge (2009). “{{% resource_link "c7d1d7ba-37c4-4edb-98fe-fbdb0b25c819" "Recent Developments in the Econometrics of Program Evaluation” (PDF - 1MB)" %}}. *Journal of Economic Literature*, 47(1): 5–86. 
 
 See the {{% resource_link "5dfbe6d1-5e31-407e-9958-925aac0c4e28" "Readings section" %}}.
