@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-771-development-economics-fall-2021/mit14_771f21_lec25_credit.pdf
+file_size: 901577
 file_type: application/pdf
 image_metadata:
   caption: ''

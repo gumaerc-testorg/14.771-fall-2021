@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-771-development-economics-fall-2021/14771-f21-lecture-1-version-2_360p_16_9.mp4
+file_size: 114863660
 file_type: video/mp4
 image_metadata:
   caption: ''
