@@ -29,12 +29,12 @@ Below, Professor Benjamin Olken describes various aspects of how he and Professo
 
 ### Prerequisites
 
-- {{% resource_link "82ede41b-40c1-4b3b-bcc2-36f119fd5e27" "*14.121 Microeconomic Theory I*" %}}
-- {{% resource_link "39367994-7dd6-42c4-9950-895c2c88c1dc" "*14.122  Microeconomic Theory II*" %}}
+- [*14.121 Microeconomic Theory I*](https://ocw.mit.edu/courses/14-121-microeconomic-theory-i-fall-2015/)
+- [*14.122  Microeconomic Theory II*](https://ocw.mit.edu/courses/14-122-microeconomic-theory-ii-fall-2002/)
 
 ### Requirements Satisfied
 
-14.771 can be applied toward a {{% resource_link "f8e2f43e-0504-4f6e-8507-0f29ad4f31ee" "PhD in Economics" %}}, but is not required.
+14.771 can be applied toward a [PhD in Economics](https://economics.mit.edu/academic-programs/phd-program/curriculum-and-thesis), but is not required.
 
 ### Offered
 

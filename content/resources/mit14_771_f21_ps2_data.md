@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-771-development-economics-fall-2021/mit14_771_f21_ps2_data.csv
+file_size: 24971
 file_type: text/csv
 image_metadata:
   caption: ''

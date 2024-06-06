@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/14-771-development-economics-fall-2021/mit14_771f21_lec23_labor.pdf
+file_size: 1187039
 file_type: application/pdf
 image_metadata:
   caption: ''
