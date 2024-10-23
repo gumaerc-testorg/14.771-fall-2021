@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/14-771-development-economics-fall-2021/mit14_771_f21_pset4_data.xlsx
+file: /ol-ocw-studio-app/courses/14-771-development-economics-fall-2021/mit14_771_f21_pset4_data.xlsx
 file_size: 1393882
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 image_metadata:
