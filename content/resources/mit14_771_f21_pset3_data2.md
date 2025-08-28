@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/development-economics/mit14_771_f21_pset3_data2.csv
+file: /ol-ocw-studio-app/courses/14-771-development-economics-fall-2021/mit14_771_f21_pset3_data2.csv
 file_size: 54498
 file_type: text/csv
 image_metadata:

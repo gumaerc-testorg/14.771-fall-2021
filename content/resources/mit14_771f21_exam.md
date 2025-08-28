@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/development-economics/mit14_771f21_exam.pdf
+file: /ol-ocw-studio-app/courses/14-771-development-economics-fall-2021/mit14_771f21_exam.pdf
 file_size: 325444
 file_type: application/pdf
 image_metadata:
